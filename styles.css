@@ -1,4 +1,10 @@
 body {
-    color: blueviolet;
+    color: black;
     background-color: ;
+}
+
+.div1{
+	border: 10px;
+    border-color: #000000;
+    border-style: solid;
 }
